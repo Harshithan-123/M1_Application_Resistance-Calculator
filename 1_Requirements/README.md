@@ -43,7 +43,7 @@ If two of these values are known, technicians can reconfigure Ohm's Law to calcu
 If you know voltage (E) and current (I) and want to know resistance (R), X-out the R in the pyramid and calculate the remaining equation (see the first, or far left, pyramid above).
 
 ## **SWOT ANALYSIS**
-![image](https://github.com/Rashmisam/L-tminiproject/blob/590f909fa12007c6d8e43e0a7bafb5cf449cfb06/1_Requirements/swot.png)
+![image](https://github.com/Harshithan-123/M1_Application_Resistance-Calculator/blob/4da09c94d5a9d706ec26ea1a581b82c39d66a2bf/1_Requirements/swot.png)
 
 ## ***4W AND 1H***
 
