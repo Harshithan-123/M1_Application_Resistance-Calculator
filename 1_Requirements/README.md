@@ -85,4 +85,4 @@ In the low level requirement, we must have the knowledge of different color band
 ### ***HIGH LEVEL REQUIREMENT***
 
 In the high level requirement, we must have the knowledge of concept value of mutpliers and tolerances associated with each color band.
-![image](https://github.com/Rashmisam/L-tminiproject/blob/6c447d97170edbe66d29687d20c7da2f238f74c0/1_Requirements/Resistor-color-code-chart.png)
+![image](https://github.com/Harshithan-123/M1_Application_Resistance-Calculator/blob/588e31adf85c48e0764f8631dfc5f51eb8c2060c/1_Requirements/Resistor-color-code-chart.png)
